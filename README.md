@@ -10,7 +10,7 @@ ES útil para mantener al día los datos de previsión de los usuarios de una in
 - Sistema Operativo: Windows 10 o Ubuntu 20.04 en adelante
 - Liberias de Python
   - PIP:
-  - +
+    +
     instalacion https://pypi.org/project/pip/ 
     +
     manual https://pip.pypa.io/en/stable/installation/
