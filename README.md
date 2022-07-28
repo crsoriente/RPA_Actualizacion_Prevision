@@ -8,15 +8,20 @@ ES útil para mantener al día los datos de previsión de los usuarios de una in
 ## Requisitos
 - Python: versión 3.8 en adelante
 - Sistema Operativo: Windows 10 o Ubuntu 20.04 en adelante
-- Liberias de Python
-  - PIP:**instalacion** https://pypi.org/project/pip/  **manual** https://pip.pypa.io/en/stable/installation/
+- Librerías de Python
+  - PIP:**instalación** https://pypi.org/project/pip/  **manual** https://pip.pypa.io/en/stable/installation/
   - RPA FRAMEWORK: https://rpaframework.org/ **pip install rpaframework==13.0.0**
   - JayDeBeApi: https://pypi.org/project/JayDeBeApi/ **pip install JayDeBeApi**
   - Pandas: https://pandas.pydata.org/ **pip install pandas**
   - Selenium: https://pypi.org/project/selenium/ **pip install selenium**
+- Datos de usuario para acceder al sistema TrakCare con permisos de admisión ambulatoria
+- Datos de usuario y contraseña para acceder a la base de datos de respaldo de TrakCare
 ## Instalación
 1. Crear entorno virtual de python 
 2. Realizar la instalación de las librerías mencionadas en los requisitos
-3. Copiar los archivos dentro del entorno vitual
-4. COnfigurar las rutas para los reportes de Excel
+3. Copiar los archivos dentro del entorno virtual
+4. Configurar las rutas para los reportes de Excel
+5. Configurar el archivo de conexion.py con los datos solicitados
+
+
 
