@@ -21,9 +21,11 @@ ES útil para mantener al día los datos de previsión de los usuarios de una in
 2. Realizar la instalación de las librerías mencionadas en los requisitos, con el comando PIP
 3. Copiar los archivos dentro del entorno virtual
 4. Configurar el archivo de conexion.py con los datos solicitados
-5. Agregar los datos del usuario que se utilizara para ingresar a TrakCare
-6. Configurar las rutas para los reportes de Excel en reporte.py
-7. Configurar los datos de la cuenta que se utilizara para enviar los archivos y los usuarios que deben recibir los reportes en emailcrs.py
+5. Configurar la query SQL en obtener_pacientes.py con el código de establecimiento y fecha
+6. Agregar los datos del usuario que se utilizara para ingresar a TrakCare
+7. Configurar las rutas para los reportes de Excel en reporte.py
+8. Configurar los datos de la cuenta que se utilizara para enviar los archivos y los usuarios que deben recibir los reportes en emailcrs.py
+
 
 
 
