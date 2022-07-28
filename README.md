@@ -18,7 +18,7 @@ ES útil para mantener al día los datos de previsión de los usuarios de una in
 - Datos de usuario y contraseña para acceder a la base de datos de respaldo de TrakCare
 ## Instalación
 1. Crear entorno virtual de python 
-2. Realizar la instalación de las librerías mencionadas en los requisitos
+2. Realizar la instalación de las librerías mencionadas en los requisitos, con el comando PIP
 3. Copiar los archivos dentro del entorno virtual
 4. Configurar las rutas para los reportes de Excel
 5. Configurar el archivo de conexion.py con los datos solicitados
