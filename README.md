@@ -10,7 +10,9 @@ ES útil para mantener al día los datos de previsión de los usuarios de una in
 - Sistema Operativo: Windows 10 o Ubuntu 20.04 en adelante
 - Liberias de Python
   - PIP:
+  - +
     instalacion https://pypi.org/project/pip/ 
+    +
     manual https://pip.pypa.io/en/stable/installation/
   - RPA FRAMEWORK:
     https://rpaframework.org/ 
@@ -26,5 +28,9 @@ ES útil para mantener al día los datos de previsión de los usuarios de una in
     pip install selenium
 
 
-## Configuracion
+## Instalación
+1. Crear entorno virtual de python 
+2. Realizar la instalación de las librerías mencionadas en los requisitos
+3. Copiar los archivos dentro del entorno vitual
+4. COnfigurar las rutas para los reportes de Excel
 
