@@ -14,8 +14,10 @@ ES útil para mantener al día los datos de previsión de los usuarios de una in
   - JayDeBeApi: https://pypi.org/project/JayDeBeApi/ **pip install JayDeBeApi**
   - Pandas: https://pandas.pydata.org/ **pip install pandas**
   - Selenium: https://pypi.org/project/selenium/ **pip install selenium**
+- ChromeDriver para utilizar el navegador google chrome https://chromedriver.chromium.org/home
 - Datos de usuario para acceder al sistema TrakCare con permisos de admisión ambulatoria
 - Datos de usuario y contraseña para acceder a la base de datos de respaldo de TrakCare
+
 ## Instalación
 1. Crear entorno virtual de python 
 2. Realizar la instalación de las librerías mencionadas en los requisitos, con el comando PIP
