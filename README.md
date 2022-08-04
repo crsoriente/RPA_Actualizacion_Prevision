@@ -28,8 +28,11 @@ ES útil para mantener al día los datos de previsión de los usuarios de una in
 7. Configurar las rutas para los reportes de Excel en reporte.py
 8. Configurar los datos de la cuenta que se utilizara para enviar los archivos y los usuarios que deben recibir los reportes en emailcrs.py
 
-
-
-
-
-
+## Configuraciones
+- En le archivo actualizar_prevision.py se debe modificar la variable AdmisionAmbulatoria de acuerdo a la posición donde está la opción de Admisión ambulatoria según el perfil del usuario a utilizar.
+- En el archivo conexion.py se debe agregar los datos para la conexión, estos los solicita la institución a al servicio correspondiente, los datos a solicitar:
+    - url = ""
+    - driver = ''”
+    - user = ""
+    - password = ""
+    - jarfile = ""  , este es un archivo que lo entrega intersystem y se debe especificar la ruta
