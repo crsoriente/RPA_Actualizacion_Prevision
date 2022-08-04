@@ -32,7 +32,7 @@ ES útil para mantener al día los datos de previsión de los usuarios de una in
 - En le archivo actualizar_prevision.py se debe modificar la variable AdmisionAmbulatoria de acuerdo a la posición donde está la opción de Admisión ambulatoria según el perfil del usuario a utilizar.
 - En el archivo conexion.py se debe agregar los datos para la conexión, estos los solicita la institución a al servicio correspondiente, los datos a solicitar:
     - url = ""
-    - driver = ''”
+    - driver = ""
     - user = ""
     - password = ""
-    - jarfile = ""  , este es un archivo que lo entrega intersystem y se debe especificar la ruta
+    - jarfile = ""  , este es un archivo que es entregado, al momento de solcitar los datos de conexion y se debe especificar la ruta
